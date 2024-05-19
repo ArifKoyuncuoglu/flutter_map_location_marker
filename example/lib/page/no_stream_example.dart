@@ -1,4 +1,4 @@
-import 'dart:math';
+import 'dart:math' show atan2;
 
 import 'package:flutter/material.dart';
 import 'package:flutter_joystick/flutter_joystick.dart';
